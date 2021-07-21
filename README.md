@@ -1,2 +1,2 @@
-# digitalskola
+# belajar
 belajar github
